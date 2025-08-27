@@ -1,15 +1,5 @@
 title: Kismet Sync (Everything and the Kismet Sync)
 description: Bringing together all my passions to help you find balance.
-<h2>Services</h2>
-    <ul>
-        <li>Life Coaching: Personalized sessions for growth.</li>
-        <li>Consulting: Expert advice for your projects.</li>
-        <li>Photography: Capturing moments beautifully.</li>
-        <li>Painting: Custom artwork.</li>
-    </ul>
-
-<h2>Contact</h2>
-    <p>Email: kismetsync777@gmail.com</p>
 baseurl: ""
 url: "https://github.com/kimijo73/kismetsync-website/blob/main/welcome"  # Replace with your site's URL
 markdown: kramdown
