@@ -1,0 +1,25 @@
+---
+layout: default  # Use 'default' or your site's main layout if different
+title: Blog
+---
+<h2>Blog Posts</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.date | date: "%B %d, %Y" }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}">Previous</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}">Next</a>
+    {% endif %}
+  </div>
+{% endif %}
+# Add blog index page.
