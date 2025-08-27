@@ -1,7 +1,7 @@
 title: Kismet Sync (Everything and the Kismet Sync)
 description: Your site description
 baseurl: ""
-url: "https://yourwebsite.com"  # Replace with your site's URL
+url: "https://github.com/kimijo73/kismetsync-website/blob/main/welcome"  # Replace with your site's URL
 markdown: kramdown
 theme: minima  # Simple default theme; change if desired
 plugins:
