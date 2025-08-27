@@ -1,7 +1,7 @@
 title: Kismet Sync (Everything and the Kismet Sync)
 description: Bringing together all my passions to help you find balance.
 baseurl: ""
-url: "https://github.com/kimijo73/kismetsync-website/blob/main/welcome"  # Replace with your site's URL
+url: "https://kimijo73.github.io/kismetsync-website/" # url: "https://github.com/kimijo73/kismetsync-website/blob/main/welcome"  # Replace with your site's URL
 markdown: kramdown
 theme: minima  # Simple default theme; change if desired
 plugins:
